@@ -70,6 +70,10 @@ This will model traditional company stock plans. This contract will automaticall
 
 ## Account Interaction using fastforward function
 
+This contract is diployed into Kovan Testnet which can be access using below URL.
+
+https://kovan.etherscan.io/tx/0x486b2bf1c1d6abffe2d7345a6c8bb84494782fa80ce6f67404ec4b2d01c5f4d7
+
 <p align="center">
   <img src="https://github.com/chirathlv/Equity-Plan-Smart-Contract/blob/main/Animation.gif">
 </p>
