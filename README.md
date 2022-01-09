@@ -78,7 +78,7 @@ https://kovan.etherscan.io/tx/0x486b2bf1c1d6abffe2d7345a6c8bb84494782fa80ce6f674
   <img src="https://github.com/chirathlv/Equity-Plan-Smart-Contract/blob/main/Images/DeferredEquityPlan%20MetaMask%20Etherscan%20Details.PNG">
 </p>
 
-## Account Interaction using fastforward function
+## Account Interaction using fastforward function and distribution
 
 <p align="center">
   <img src="https://github.com/chirathlv/Equity-Plan-Smart-Contract/blob/main/Animation.gif">
