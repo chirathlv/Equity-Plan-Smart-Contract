@@ -66,7 +66,7 @@ This will distribute different percentages of incoming Ether to employees at dif
 
 # Deferred Profit Splitter
 
-This will models traditional company stock plans. This contract will automatically manage 1000 shares with an annual distribution of 250 over 4 years for a single employee.
+This will model traditional company stock plans. This contract will automatically manage 1000 shares with an annual distribution of 250 over 4 years for a single employee.
 
 ## Account Interaction using fastforward function
 
