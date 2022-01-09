@@ -68,11 +68,17 @@ This will distribute different percentages of incoming Ether to employees at dif
 
 This will model traditional company stock plans. This contract will automatically manage 1000 shares with an annual distribution of 250 over 4 years for a single employee.
 
-## Account Interaction using fastforward function
+## Deployment
 
-This contract is deployed into Kovan Testnet which can be access using below URL.
+This contract is deployed into Kovan Testnet which can be tracked using below URL.
 
 https://kovan.etherscan.io/tx/0x486b2bf1c1d6abffe2d7345a6c8bb84494782fa80ce6f67404ec4b2d01c5f4d7
+
+<p align="center">
+  <img src="https://github.com/chirathlv/Equity-Plan-Smart-Contract/blob/main/Images/DeferredEquityPlan%20MetaMask%20Etherscan%20Details.PNG">
+</p>
+
+## Account Interaction using fastforward function
 
 <p align="center">
   <img src="https://github.com/chirathlv/Equity-Plan-Smart-Contract/blob/main/Animation.gif">
