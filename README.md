@@ -26,6 +26,7 @@ This will accept Ether into the contract and divide the Ether evenly among the a
 
 <p align="center">
   <img src="https://github.com/chirathlv/Equity-Plan-Smart-Contract/blob/main/Images/AssociateProfitSplitter%20Accounts%20Deposits.PNG">
+  <img src="https://github.com/chirathlv/Equity-Plan-Smart-Contract/blob/main/Images/AssociateProfitSplitter%20Accounts%20Deposits.PNG">
 </p>
 
 # Tiered Profit Splitter
