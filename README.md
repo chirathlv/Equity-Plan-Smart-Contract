@@ -30,6 +30,13 @@ This will accept Ether into the contract and divide the Ether evenly among the a
   <img src="https://github.com/chirathlv/Equity-Plan-Smart-Contract/blob/main/Images/AssociateProfitSplitter%20Accounts%20Deposits%20Verification.PNG">
 </p>
 
+## Checking Before and After Balance
+
+<p align="center">
+  <img src="https://github.com/chirathlv/Equity-Plan-Smart-Contract/blob/main/Images/AssociateProfitSplitter%20Before%20Accounts%20Balances.PNG">
+  <img src="https://github.com/chirathlv/Equity-Plan-Smart-Contract/blob/main/Images/AssociateProfitSplitter%20After%20Accounts%20Balances.PNG">
+</p>
+
 # Tiered Profit Splitter
 
 This will distribute different percentages of incoming Ether to employees at different tiers/levels. For example, the CEO gets paid 60%, CTO 25%, and Bob gets 15%.
