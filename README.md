@@ -22,6 +22,12 @@ There are three Smart Contracts for each following Equity Plans.
 
 This will accept Ether into the contract and divide the Ether evenly among the associate level employees. This will allow the Human Resources department to pay employees quickly and efficiently.
 
+## Deposits
+
+<p align="center">
+  <img src="https://github.com/chirathlv/Equity-Plan-Smart-Contract/blob/main/Images/AssociateProfitSplitter%20Accounts%20Deposits.PNG">
+</p>
+
 # Tiered Profit Splitter
 
 This will distribute different percentages of incoming Ether to employees at different tiers/levels. For example, the CEO gets paid 60%, CTO 25%, and Bob gets 15%.
